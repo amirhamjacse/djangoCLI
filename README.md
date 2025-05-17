@@ -1,7 +1,3 @@
-Here's a simple and clear **README.md** template for a Django CLI project. This assumes your project is focused on providing custom command-line utilities using Django's `manage.py` system.
-
----
-
 ### ✅ Example: `README.md` for a Django CLI Project
 
 ````markdown
@@ -111,11 +107,4 @@ This project is licensed under the MIT License.
 ## 👤 Author
 
 * **Your Name**
-* GitHub: [@yourusername](https://github.com/yourusername)
-
-```
-
----
-
-Would you like me to customize it for your actual project name, command names, or GitHub repo URL?
-```
+* GitHub: [@amirhamjacse](https://github.com/amirhamjacse)
