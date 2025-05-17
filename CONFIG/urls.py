@@ -16,7 +16,9 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
+from myappcli import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('qu', views.test_view, name='queue')
 ]
