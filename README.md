@@ -15,7 +15,7 @@ This project is a Django-based command-line interface (CLI) application that pro
 ## 🛠️ Requirements
 
 - Python 3.8+
-- Django 3.2+ (or your version)
+- Django 4.2+ (or your version)
 - (Optional) Virtual environment tool like `venv` or `pipenv`
 
 ## 🚀 Setup
